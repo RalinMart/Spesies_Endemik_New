@@ -1,0 +1,5 @@
+include ':favorite'
+include ':maps'
+include ':core'
+rootProject.name='Spesies Endemik'
+include ':app'

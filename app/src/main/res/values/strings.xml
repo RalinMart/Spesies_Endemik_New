@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spesies Endemik</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_map">Peta Habitat</string>
+    <string name="menu_favorite">Favorite</string>
+
+    <string name="title_activity_detail_home">DetailHomeActivity</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+
+</resources>
